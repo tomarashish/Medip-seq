@@ -1,0 +1,17 @@
+Package: BSgenome.Taestivum
+Title: Full genome sequences for Triticum aestivum (wheat)
+Description: Full genome sequences for Triticum aestivum as provided by PLANT ensembl  and stored in Biostrings objects.
+Version: 1.0.00
+organism: Triticum aestivum ssp.
+species: plant
+provider: Plant Ensembl
+provider_version: taes
+release_date: Dec. 2015
+release_name: 
+BSgenomeObjname: Taes
+organism_biocview: wheat
+seqnames: c("chr_1A", "chr_1B", "chr_1D", "chr_2A", "chr_2B", "chr_2D","chr_3A", "chr_3B", "chr_3D","chr_4A", "chr_4B", "chr_4D","chr_5A", "chr_5B", "chr_5D","chr_6A", "chr_6B", "chr_6D", "chr_7A", "chr_7B", "chr_7D", "chr_Mt", "chr_Pt")
+circ_seqs: c("chr_Mt", "chr_Pt")
+nmask_per_seq: 0
+seqs_srcdir: .
+
